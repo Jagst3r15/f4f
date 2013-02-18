@@ -1,0 +1,41 @@
+/******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Desktop Stylsheet
+
+This is the desktop size. It's larger than an iPad so it will only
+be seen on the Desktop. 
+
+******************************************************************/
+.front-content-right {
+	float: right;
+	margin-right: 12.762431%;
+}
+
+.front-content-left {
+	float: left;
+	text-align: right;
+}
+
+#get-found {
+	background-image: url(../images/chef.gif);
+	background-repeat: no-repeat;
+	background-position: 60px 15px;
+}
+#get-loyalty {
+	background-image: url(../images/iphone.gif);
+	background-repeat: no-repeat;
+	background-position: right 75px;
+}
+#get-shared {
+	background-image: url(../images/socialchef.gif);
+	background-repeat: no-repeat;
+	background-position: 60px 35px;
+}
+
+#get-seen {
+	background-image: url(../images/girlwalkingdog.gif);
+	background-repeat: no-repeat;
+	background-position: right 40px;
+}
